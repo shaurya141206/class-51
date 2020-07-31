@@ -1,0 +1,15 @@
+h1{color:rgb(255, 255, 255);}
+h1{font:Arial;}
+
+body{background-color: #808080;
+padding: 100px;
+margin: 100px;
+border: solid;}
+
+.header{background-color :black}
+
+.immg {
+  display: flex; /* or inline-flex */
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
